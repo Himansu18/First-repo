@@ -1,4 +1,4 @@
 # First-repo
 This is my first Github repositary
 <br/>
-author-HimansuBehera
+author-Himansu
